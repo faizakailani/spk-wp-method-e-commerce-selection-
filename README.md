@@ -1,7 +1,7 @@
 # React + Vite
 
-# Aplikasi Sistem Pendukung Keputusan Bahan Kendaraan Ringan
-Membantu dalam mengambil keputusan memilih bahan yang akan digunakan untuk membuat kendaraan ringan, dengan menggunakan Weighted Product untuk menghitung hasilnya.
+# Aplikasi Sistem Pendukung Keputusan Pemilihan E-Commerce Terbaik
+Membantu dalam mengambil keputusan memilih bahan yang akan digunakan untuk menentukan e-commerce terbaik, dengan menggunakan Weighted Product untuk menghitung hasilnya.
 
 ## Tech Stack
 - React
@@ -11,7 +11,7 @@ Membantu dalam mengambil keputusan memilih bahan yang akan digunakan untuk membu
 ## How to use
 1. Clone the repo
 ``` bash
-git clone https://your-repo-url.git
+git clone [https://your-repo-url.git](https://github.com/faizakailani/spk-wp-method-e-commerce-selection-.git)
 ```
 
 2. Install dependencies
